@@ -199,8 +199,8 @@ have the same value as if you had specified `1000`.
 -->
 
 Vous pouvez écrire des littéraux d'entiers dans chacune des formes décrites dans
-le tableau 3-2. Notez qu'un littéral numérique peut être de différent type
-numérique autorisent l'utilisation un suffixe de type, comme `57u8`, afin de
+le tableau 3-2. Notez que les littéraux numériques qui peuvent être de plusieurs types
+numériques autorisent l'utilisation d'un suffixe de type, tel que `57u8`, afin de
 préciser leur type. Les nombres littéraux peuvent aussi utiliser `_` comme
 séparateur visuel afin de les rendre plus lisible, comme par exemple `1_000`,
 qui a la même valeur que si vous aviez renseigné `1000`.
