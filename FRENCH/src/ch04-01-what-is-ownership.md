@@ -336,7 +336,7 @@ donnée qui est plus complexe que ceux que nous avons rencontrés dans la sectio
 [“Types de données”][data-types]<!-- ignore --> du chapitre 3. Les types que
 nous avons vus précédemment ont tous une taille connue et peuvent être stockés
 sur la pile ainsi que retirés de la pile lorsque la portée n'en a plus besoin,
-et peuvent aussi être rapidement et facilement afin de constituer une nouvelle
+et peuvent aussi être rapidement et facilement copiés afin de constituer une nouvelle
 instance indépendante si une autre partie du code a besoin d'utiliser la même
 valeur dans une portée différente. Mais nous voulons expérimenter le stockage
 de données sur le tas et découvrir comment Rust sait quand il doit nettoyer ces
