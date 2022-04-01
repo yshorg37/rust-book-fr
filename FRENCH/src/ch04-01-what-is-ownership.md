@@ -234,7 +234,7 @@ boilerplate code.
 Maintenant
 que nous avons vu la syntaxe Rust de base, nous n'allons plus ajouter tout le
 code du style `fn main() {` dans les exemples, donc si vous voulez reproduire
-les exemples, assurez-vous de placer manuellement dans une fonction `main`. Par
+les exemples, assurez-vous de les placer manuellement dans une fonction `main`. Par
 conséquent, nos exemples seront plus concis, nous permettant de nous concentrer
 sur les détails de la situation plutôt que sur du code normalisé.
 
